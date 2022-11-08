@@ -1,0 +1,9 @@
+import unnitest
+
+def fib2(n):
+    wybik = []
+    a, b = 0, 1
+    while b < n:
+        wynik.append(b)
+        a, b = b, a+b
+    return wynik
